@@ -16,10 +16,9 @@ As a result, this is a simple cookie-cutter version.
 
 ## Screenshots
 
-![Login Page](./screenshots/login.png)
-![Home Page](./screenshots/home.png)
-![Add New User Page](./screenshots/add_user.png)
-![Search Page](./screenshots/search.png)
+![Login Page](./screenshots/screenshot1.png)
+![Add New User Page](./screenshots/screenshot2.png)
+![Search Page](./screenshots/screenshot3.png)
 
 ## Getting Started
 
